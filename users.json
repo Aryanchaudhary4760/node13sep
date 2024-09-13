@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bamby",
+    "last_name": "Dolling",
+    "email": "bdolling0@imgur.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Lyndsie",
+    "last_name": "Dufaire",
+    "email": "ldufaire1@amazon.co.uk",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Elvyn",
+    "last_name": "Crocroft",
+    "email": "ecrocroft2@dropbox.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Kakalina",
+    "last_name": "Pacitti",
+    "email": "kpacitti3@geocities.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Tatiania",
+    "last_name": "Santer",
+    "email": "tsanter4@google.co.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Vittoria",
+    "last_name": "Worsfold",
+    "email": "vworsfold5@ow.ly",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Chevalier",
+    "last_name": "Hunnisett",
+    "email": "chunnisett6@cornell.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Jasmin",
+    "last_name": "Douce",
+    "email": "jdouce7@facebook.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Gerek",
+    "last_name": "Monelle",
+    "email": "gmonelle8@craigslist.org",
+    "gender": "Polygender"
+  },
+  {
+    "id": 10,
+    "first_name": "Viv",
+    "last_name": "Hane",
+    "email": "vhane9@clickbank.net",
+    "gender": "Female"
+  }
+]
